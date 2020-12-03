@@ -39,6 +39,12 @@ body {
     .car[data-model="mcqueen"] {
         background-image: url(../img/mcqueen.png);
     }
+    .car[data-model="batman"] {
+        background-image: url(../img/batman.png);
+    }
+    .car[data-model="peppa"] {
+        background-image: url(../img/peppa.png);
+    }
     .car::before {
         display: inline-block;
         width: 40px;
