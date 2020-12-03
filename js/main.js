@@ -26,7 +26,7 @@ addEventListener('keyup', event => {
     const key = event.key;
     if (key === 'w') {
         car1Position += carStep;
-        car1.style.left = carPosition + 'px';
+        car1.style.left = car1Position + 'px';
         if (car1Position > finishPosition) {
             alert('Laimejo pirma masina');
             location.reload();

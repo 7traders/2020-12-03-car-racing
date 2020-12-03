@@ -73,8 +73,8 @@ body {
     height: 40px;
     transform: rotate(90deg);
     position: absolute;
-    top: 35vh;
-    left: 190px;
+    top: 30vh;
+    left: 300px;
     transform-origin: top left;
     border: 5px solid white;
     border-left: none;
