@@ -1,7 +1,7 @@
 const car1 = document.querySelector('.car-1');
 const car2 = document.querySelector('.car-2');
 
-const models = ['delorean', 'ghostbusters', 'mini', 'mcqueen'];
+const models = ['delorean', 'ghostbusters', 'mini', 'mcqueen', 'batman', 'peppa'];
 const windowWidth = innerWidth;
 const carWidth = 150;
 const finishWidth = 40;
