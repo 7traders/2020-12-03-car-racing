@@ -46,16 +46,16 @@ body {
         background-image: url(../img/peppa.png);
     }
     .car[data-model="barbie"] {
-        background-image: url(../img/peppa.png);
+        background-image: url(../img/barbie.png);
     }
     .car[data-model="barbie2"] {
-        background-image: url(../img/peppa.png);
+        background-image: url(../img/barbie2.png);
     }
     .car[data-model="mario"] {
-        background-image: url(../img/peppa.png);
+        background-image: url(../img/mario.png);
     }
     .car[data-model="incredibles"] {
-        background-image: url(../img/peppa.png);
+        background-image: url(../img/incredibles.png);
     }
     .car::before {
         display: inline-block;
